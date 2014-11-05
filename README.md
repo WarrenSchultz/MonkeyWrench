@@ -3,12 +3,22 @@ MonkeyWrench
 
 Custom configuration file for Kerbal Attachment System that allows for significant reconfiguration of spacecraft and stations.
 
++ New Vernier 4-way RCS, based off of B9 12-nozzle RCS module
++ Short range radio added to Universal Storage EVA-X pack for RemoteTech
++ KAS-grabbable MechJeb AR202
++ Quick-dockable 1x and 3x truss pieces
+
+
 Support in progress for:
-Base game
-B9
-KW Rocketry
-Interstellar
-Infernal Robotics
++ Squad (Base game)
++ B9
++ DMagic Orbital Science
++ Hex Cans
++ Interstellar
++ KW Rocketry
++ RealChute
++ SCANsat
++ Surface Lights
 
 Current status:
 Adding parts
