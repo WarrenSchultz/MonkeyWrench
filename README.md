@@ -1,5 +1,4 @@
-MonkeyWrench
-When subtlety and finesse just won't do.
+MonkeyWrench: When subtlety and finesse just won't do.
 ============
 A variety of new and customized parts, adding more flexibility both on the ground and mid-mission.
 
