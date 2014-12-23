@@ -1,12 +1,16 @@
 MonkeyWrench
+When subtlety and finesse just won't do.
 ============
 
-Custom configuration package designed to allow far more flexibility in mid-mission reconfiguration
 
 ===============================================================
 New parts via config file adjustments:
 ----------------------------------
-+ New Vernier 4-way RCS, based off of B9 12-nozzle RCS module (Uses ModuleRCSFX)
++ New Vernier omnidirectional RCS, (Uses ModuleRCSFX)
++ (Coming soon)
++ (Coming soon)
+Other part reconfigurations:
+----------------------------------
 + Short range radio and MechJeb added to Universal Storage EVA-X pack for RemoteTech
 + KAS-grabbable MechJeb AR202
 
