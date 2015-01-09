@@ -6,11 +6,11 @@ A variety of new and customized parts, adding more flexibility both on the groun
 ===============================================================
 New parts:
 ----------------------------------
-+ New Vernier omnidirectional RCS, uses LFO mix (Uses ModuleRCSFX)
++ Two-part orbital cargo drop system with integral air brakes. 
++ Vernier omnidirectional RCS, uses LFO mix (Uses ModuleRCSFX)
 	Designed for moving heavy craft and stations around. TweakScale compatible for even bigger (and smaller) uses.
 	* Note: currently an issue with displaying the RCS plumes. Looking into this.
-+ Coming soon!
-+ Coming soon!
++ More coming soon!
 
 Config file adjustments to add functionality to existing parts
 ----------------------------------
@@ -40,6 +40,18 @@ KAS Grab & Storage support, modifications to existing parts:
 + + Power generation to launch clamps
 + + KAS Node dock capability for 1x and 3x  truss segments
 
-
-
+===============================================================
+// Changes:
+// v0.1.6
+//		Added cargo drop pod for safe reentry when using FAR/DRE
+//		Reorganized art asset structure
+// v0.1.5
+//		*** Initial Release ***
+// 		Increased scale options for most Infernal Robotics parts (Now in Huge Size!)
+//  	* Outfitter Maintenance Drone radio
+// 		Remove KAS container TweakScale customizations, thanks to the 1.47 release of TweakScale which does the same thing :)
+//		Externalized config files for 3rd-party mods
+//		* 5m refinery
+//		* Reconfigure Universal Storage safety decoupler
+//		Updated to ModuleRCSFX v3.2
 
