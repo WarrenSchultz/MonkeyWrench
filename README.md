@@ -41,17 +41,17 @@ KAS Grab & Storage support, modifications to existing parts:
 + + KAS Node dock capability for 1x and 3x  truss segments
 
 ===============================================================
-// Changes:
-// v0.1.6
-//		Added cargo drop pod for safe reentry when using FAR/DRE
-//		Reorganized art asset structure
-// v0.1.5
-//		*** Initial Release ***
-// 		Increased scale options for most Infernal Robotics parts (Now in Huge Size!)
-//  	* Outfitter Maintenance Drone radio
-// 		Remove KAS container TweakScale customizations, thanks to the 1.47 release of TweakScale which does the same thing :)
-//		Externalized config files for 3rd-party mods
-//		* 5m refinery
-//		* Reconfigure Universal Storage safety decoupler
-//		Updated to ModuleRCSFX v3.2
+Changes:
+v0.1.6
+	Added cargo drop pod for safe reentry when using FAR/DRE
+	Reorganized art asset structure
+v0.1.5
+	*** Initial Release ***
+	Increased scale options for most Infernal Robotics parts (Now in Huge Size!)
+	* Outfitter Maintenance Drone radio
+	Remove KAS container TweakScale customizations, thanks to the 1.47 release of TweakScale which does the same thing :)
+	Externalized config files for 3rd-party mods
+	* 5m refinery
+	* Reconfigure Universal Storage safety decoupler
+	Updated to ModuleRCSFX v3.2
 
