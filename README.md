@@ -24,11 +24,11 @@ KAS Grab & Storage support, modifications to existing parts:
 ------------------------
 + B9_Aerospace
 + DMagic Orbital Science
-+ Small Hex Cans 
++ Small Hex Cans
 + Interstellar
 + Kerbal Attachment System
-+ + Storage containers now scale with TweakScale size adjustments
-+ KW
++ Storage containers now scale with TweakScale size adjustments
++ KW Rocketry
 + MechJeb
 + + Add 1km RemoteTech antenna
 + RealChute
@@ -56,3 +56,4 @@ v0.1.5
 + * 5m refinery
 + * Reconfigure Universal Storage safety decoupler
 + Updated to ModuleRCSFX v3.2
+
