@@ -42,6 +42,15 @@ KAS Grab & Storage support, modifications to existing parts:
 
 ===============================================================
 Changes:
+v0.1.7
++ Added support: (Thanks, rabidninjawombat!)
++ + Modular Rocket Systems
++ + NovaPunch2
++ + RLA Stockalike
++ + Tantares
++ Drop Pod changes
++ + FAR compatibility fix for the drop pod. Now properly categorized as shielding the cargo.
++ + Additional model and texture fixes
 v0.1.6
 + Added cargo drop pod for safe reentry when using FAR/DRE
 + Reorganized art asset structure
